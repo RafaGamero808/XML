@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<directorio>
+    <edificio>
+        <direccion>Calle BugCrasheo, 420</direccion>
+        <planta>
+            <numero>1</numero>
+            <metros>200</metros>
+            <empleados>
+                <empleado>
+                    <nombre>Johnny Silverhand</nombre>
+                    <puesto>Encargado de ciberseguridad</puesto>
+                    <telefono>777777777</telefono>
+                </empleado>
+                <empleado>
+                    <nombre>Adam Smasher</nombre>
+                    <puesto>Conserje</puesto>
+                    <telefono>666666661</telefono>
+                </empleado>
+                <empleado>
+                    <nombre>Judy Álvarez</nombre>
+                    <puesto>Recursos humanos</puesto>
+                    <telefono>555555555</telefono>
+                </empleado>
+                <empleado>
+                    <nombre>Dum Dum</nombre>
+                    <puesto>Comercial</puesto>
+                    <telefono>444444444</telefono>
+                </empleado>
+                <empleado>
+                    <nombre>Goro Takemura</nombre>
+                    <puesto>Comercial</puesto>
+                    <telefono>333333333</telefono>
+                </empleado>
+            </empleados>
+        </planta>
+        <planta>
+            <numero>2</numero>
+            <metros>200</metros>
+            <empleados>
+                <empleado>
+                    <nombre>Yorinobu Arasaka</nombre>
+                    <puesto>Hijo del jefe</puesto>
+                    <telefono>222222222</telefono>
+                </empleado>
+                <empleado>
+                    <nombre>Alt Cunningham</nombre>
+                    <puesto>Investigadora</puesto>
+                    <telefono>888888888</telefono>
+                </empleado>
+                <empleado>
+                    <nombre>Brigitte</nombre>
+                    <puesto>Comercial</puesto>
+                    <telefono>111111111</telefono>
+                </empleado>
+                <empleado>
+                    <nombre>Dexter DeShawn</nombre>
+                    <puesto>Consultor</puesto>
+                    <telefono>999999999</telefono>
+                </empleado>
+                <empleado>
+                    <nombre>Judy Álvarez</nombre>
+                    <puesto>Recursos humanos</puesto>
+                    <telefono>555555555</telefono>
+                </empleado>
+            </empleados>
+        </planta>
+        <planta>
+            <numero>3</numero>
+            <metros>200</metros>
+            <empleados>
+                <empleado>
+                    <nombre>Royce</nombre>
+                    <puesto>Gerente</puesto>
+                    <telefono>444555666</telefono>
+                </empleado>
+                <empleado>
+                    <nombre>V</nombre>
+                    <puesto>Agente</puesto>
+                    <telefono>777888999</telefono>
+                </empleado>
+                <empleado>
+                    <nombre>Jackie Welles</nombre>
+                    <puesto>Operador</puesto>
+                    <telefono>222333444</telefono>
+                </empleado>
+                <empleado>
+                    <nombre>Meredith Stout</nombre>
+                    <puesto>Analista</puesto>
+                    <telefono>666777888</telefono>
+                </empleado>
+                <empleado>
+                    <nombre>Goro Takemura</nombre>
+                    <puesto>Consultor</puesto>
+                    <telefono>999888777</telefono>
+                </empleado>
+            </empleados>
+        </planta>
+    </edificio>
+    
+    <edificio>
+        <direccion>Calle TramaLiosa, 53214</direccion>
+        <planta>
+            <numero>1</numero>
+            <metros>300</metros>
+            <empleados>
+                <empleado>
+                    <nombre>Naked Snake</nombre>
+                    <puesto>Soldado</puesto>
+                    <telefono>111222333</telefono>
+                </empleado>
+                <empleado>
+                    <nombre>Nikolai Sokolov</nombre>
+                    <puesto>Ingeniero</puesto>
+                    <telefono>444555666</telefono>
+                </empleado>
+                <empleado>
+                    <nombre>Major Zero</nombre>
+                    <puesto>Director</puesto>
+                    <telefono>777888999</telefono>
+                </empleado>
+                <empleado>
+                    <nombre>Revolver Ocelot</nombre>
+                    <puesto>Relaciones Públicas</puesto>
+                    <telefono>999000111</telefono>
+                </empleado>
+                <empleado>
+                    <nombre>Yevgeny Borisovitch Volgin</nombre>
+                    <puesto>Soldado</puesto>
+                    <telefono>222333444</telefono>
+                </empleado>
+            </empleados>
+        </planta>
+        <planta>
+            <numero>2</numero>
+            <metros>300</metros>
+            <empleados>
+                <empleado>
+                    <nombre>Ivan Raidenovitch Raikov</nombre>
+                    <puesto>Soldado</puesto>
+                    <telefono>888999000</telefono>
+                </empleado>
+                <empleado>
+                    <nombre>Johnny Sasaki</nombre>
+                    <puesto>Comunicaciones</puesto>
+                    <telefono>555666777</telefono>
+                </empleado>
+                <empleado>
+                    <nombre>Solid Snake</nombre>
+                    <puesto>Agente</puesto>
+                    <telefono>111111111</telefono>
+                </empleado>
+                <empleado>
+                    <nombre>Olga Gurlukovich</nombre>
+                    <puesto>Soldado</puesto>
+                    <telefono>444444444</telefono>
+                </empleado>
+                <empleado>
+                    <nombre>Peter Stillman</nombre>
+                    <puesto>Ingeniero</puesto>
+                    <telefono>666666666</telefono>
+                </empleado>
+            </empleados>
+        </planta>
+        <planta>
+            <numero>3</numero>
+            <metros>300</metros>
+            <empleados>
+                <empleado>
+                    <nombre>Solidus Snake</nombre>
+                    <puesto>Soldado</puesto>
+                    <telefono>777777777</telefono>
+                </empleado>
+                <empleado>
+                    <nombre>Sergei Gurlukovich</nombre>
+                    <puesto>Soldado</puesto>
+                    <telefono>888888888</telefono>
+                </empleado>
+                <empleado>
+                    <nombre>Vamp Vampiro</nombre>
+                    <puesto>Comercial</puesto>
+                    <telefono>999999999</telefono>
+                </empleado>
+                <empleado>
+                    <nombre>Hal Emmerich</nombre>
+                    <puesto>Ingeniero</puesto>
+                    <telefono>000111222</telefono>
+                </empleado>
+                <empleado>
+                    <nombre>Gray Fox</nombre>
+                    <puesto>Soldado</puesto>
+                    <telefono>333444555</telefono>
+                </empleado>
+            </empleados>
+        </planta>
+    </edificio>
+    
+    <edificio>
+        <direccion>Calle Tierra, 616</direccion>
+        <planta>
+            <numero>1</numero>
+            <metros>300</metros>
+            <empleados>
+                <empleado>
+                    <nombre>Fernanda Ramirez</nombre>
+                    <puesto>Analista</puesto>
+                    <telefono>123456789</telefono>
+                </empleado>
+                <empleado>
+                    <nombre>Flint Marko</nombre>
+                    <puesto>Investigador</puesto>
+                    <telefono>987654321</telefono>
+                </empleado>
+                <empleado>
+                    <nombre>Forge</nombre>
+                    <puesto>Ingeniero</puesto>
+                    <telefono>555555555</telefono>
+                </empleado>
+                <empleado>
+                    <nombre>Frank Schlichting</nombre>
+                    <puesto>Gerente</puesto>
+                    <telefono>444555666</telefono>
+                </empleado>
+                <empleado>
+                    <nombre>Frederick Dukes</nombre>
+                    <puesto>Consultor</puesto>
+                    <telefono>333444555</telefono>
+                </empleado>
+            </empleados>
+        </planta>
+        <planta>
+            <numero>2</numero>
+            <metros>300</metros>
+            <empleados>
+                <empleado>
+                    <nombre>Frederick Foswell</nombre>
+                    <puesto>Analista</puesto>
+                    <telefono>222333444</telefono>
+                </empleado>
+                <empleado>
+                    <nombre>Fuerza Fénix</nombre>
+                    <puesto>Gerente</puesto>
+                    <telefono>666777888</telefono>
+                </empleado>
+                <empleado>
+                    <nombre>Gali</nombre>
+                    <puesto>Investigador</puesto>
+                    <telefono>888999000</telefono>
+                </empleado>
+                <empleado>
+                    <nombre>Gargantus</nombre>
+                    <puesto>Comercial</puesto>
+                    <telefono>777888999</telefono>
+                </empleado>
+                <empleado>
+                    <nombre>George Tarleton</nombre>
+                    <puesto>Ingeniero</puesto>
+                    <telefono>111222333</telefono>
+                </empleado>
+            </empleados>
+        </planta>
+        <planta>
+            <numero>3</numero>
+            <metros>300</metros>
+            <empleados>
+                <empleado>
+                    <nombre>Georges Batroc</nombre>
+                    <puesto>Comercial</puesto>
+                    <telefono>444555666</telefono>
+                </empleado>
+                <empleado>
+                    <nombre>Hammerhead</nombre>
+                    <puesto>Analista</puesto>
+                    <telefono>888888888</telefono>
+                </empleado>
+                <empleado>
+                    <nombre>Hellspawn</nombre>
+                    <puesto>Soldado</puesto>
+                    <telefono>999000111</telefono>
+                </empleado>
+                <empleado>
+                    <nombre>Helmut Zemo</nombre>
+                    <puesto>Consultor</puesto>
+                    <telefono>222333444</telefono>
+                </empleado>
+                <empleado>
+                    <nombre>Hercules</nombre>
+                    <puesto>Vigilante</puesto>
+                    <telefono>333444555</telefono>
+                </empleado>
+            </empleados>
+        </planta>
+    </edificio>
+</directorio>

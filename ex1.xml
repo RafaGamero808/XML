@@ -1,0 +1,326 @@
+<torneo>
+    <ronda> <!--COMO NO TENGO NIDEA DE TENIS, ME HE INVENTADO UN FORMATO EN EL QUE GANA EL PRIMERO EN LLEGAR A SEIS JUEGOS-->
+        <partido>
+            <jugador> <!--NO TENGO NIDEA DE TENIS (DE NUEVO), PERO AL MARIO TENIS SÍ HE JUGAO VARIOS CIENTOS DE HORAS, ASÍ QUE ESOS VAN A SER MIS JUGADORES-->
+                <nombre>Rey Boo</nombre>
+                <peso>0kg</peso>
+                <altura>variable</altura>
+                <edad>A saber, es un fantasma</edad>
+                <procedencia>Mansión Encantada</procedencia> <!--CONCRETAMENTE LA DEL LUIGI'S MANSION-->
+            </jugador>
+
+            <jugador>
+                <nombre>Luigi</nombre>
+                <peso>70kg</peso>
+                <altura>1.75m</altura>
+                <edad>25</edad>
+                <procedencia>Brooklyn</procedencia>
+            </jugador>
+
+            <set>
+                <numero>1</numero>
+
+                <resultado>
+                    <jugador> 
+                        <nombre>Luigi</nombre>
+                        <juegos>6</juegos>
+                    </jugador>
+
+                    <jugador>
+                        <nombre>Rey Boo</nombre>
+                        <juegos>3</juegos>
+                    </jugador>
+
+                    <ganador>
+                        <nombre>Luigi</nombre>
+                    </ganador>
+                </resultado>
+            </set>
+        </partido>
+
+        <partido>
+            <jugador>
+                <nombre>Bowser</nombre>
+                <peso>800 kg</peso>
+                <altura>2.60 m</altura>
+                <edad>40</edad>
+                <procedencia>Reino Koopa</procedencia>
+            </jugador>
+
+            <jugador>
+                <nombre>Diddy Kong</nombre>
+                <peso>30 kg</peso>
+                <altura>1.00 m</altura>
+                <edad>12 años</edad>
+                <procedencia>Isla Kong</procedencia>
+            </jugador>
+
+            <set>
+                <numero>1</numero>
+                <resultado>
+                    <jugador>
+                        <nombre>Bowser</nombre>
+                        <juegos>6</juegos>
+                    </jugador>
+                    <jugador>
+                        <nombre>Diddy Kong</nombre>
+                        <juegos>4</juegos>
+                    </jugador>
+                </resultado>
+                <ganador>
+                    <nombre>Bowser</nombre>
+                </ganador>
+            </set>
+        </partido>
+
+        <partido>
+            <jugador>
+                <nombre>Planta Piraña</nombre>
+                <peso>10 kg</peso>
+                <altura>1 a 2 m</altura>
+                <edad>10 años</edad>
+                <procedencia>Reino Champiñón</procedencia>
+            </jugador>
+
+            <jugador>
+                <nombre>Wario</nombre>
+                <peso>120 kg</peso>
+                <altura>1.70 m</altura>
+                <edad>35 años</edad>
+                <procedencia>Brooklyn</procedencia>
+            </jugador>
+
+            <set>
+                <numero>1</numero>
+                <resultado>
+                    <jugador>
+                        <nombre>Planta Piraña</nombre>
+                        <juegos>6</juegos>
+                    </jugador>
+                    <jugador>
+                        <nombre>Wario</nombre>
+                        <juegos>2</juegos>
+                    </jugador>
+                </resultado>
+                <ganador>
+                    <nombre>Planta Piraña</nombre>
+                </ganador>
+            </set>
+        </partido>
+
+        <partido>
+            <jugador>
+                <nombre>Mario</nombre>
+                <peso>65 kg</peso>
+                <altura>1.60 m</altura>
+                <edad>25 años</edad>
+                <procedencia>Brooklyn</procedencia>
+            </jugador>
+
+            <jugador>
+                <nombre>Huesitos</nombre>
+                <peso>5 kg</peso>
+                <altura>1.50 m</altura>
+                <edad>Es un zombi, no cuenta los años</edad>
+                <procedencia>Reino Koopa</procedencia>
+            </jugador>
+
+            <set>
+                <numero>1</numero>
+                <resultado>
+                    <jugador>
+                        <nombre>Mario</nombre>
+                        <juegos>6</juegos>
+                    </jugador>
+                    <jugador>
+                        <nombre>Huesitos</nombre>
+                        <juegos>5</juegos>
+                    </jugador>
+                </resultado>
+                <ganador>
+                    <nombre>Mario</nombre>
+                </ganador>
+            </set>
+        </partido>
+
+        <partido>
+            <jugador>
+                <nombre>Donkey Kong</nombre>
+                <peso>350 kg</peso>
+                <altura>2.30 m</altura>
+                <edad>24 años</edad>
+                <procedencia>Isla Kong</procedencia>
+            </jugador>
+
+            <jugador>
+                <nombre>Daisy</nombre>
+                <peso>55 kg</peso>
+                <altura>1.70 m</altura>
+                <edad>25 años (aprox.)</edad>
+                <procedencia>Reino Sarasaland</procedencia>
+            </jugador>
+
+            <set>
+                <numero>1</numero>
+                <resultado>
+                    <jugador>
+                        <nombre>Daisy</nombre>
+                        <juegos>6</juegos>
+                    </jugador>
+                    <jugador>
+                        <nombre>Donkey Kong</nombre>
+                        <juegos>3</juegos>
+                    </jugador>
+                </resultado>
+                <ganador>
+                    <nombre>Daisy</nombre>
+                </ganador>
+            </set>
+        </partido>
+
+        <partido>
+            <jugador>
+                <nombre>Waluigi</nombre>
+                <peso>70 kg</peso>
+                <altura>1.90 m</altura>
+                <edad>35 años</edad>
+                <procedencia>Brooklyn</procedencia>
+            </jugador>
+
+            <jugador>
+                <nombre>Peach</nombre>
+                <peso>55 kg</peso>
+                <altura>1.70 m</altura>
+                <edad>25 años</edad>
+                <procedencia>Reino Champiñón</procedencia>
+            </jugador>
+
+            <set>
+                <numero>1</numero>
+                <resultado>
+                    <jugador>
+                        <nombre>Waluigi</nombre>
+                        <juegos>6</juegos>
+                    </jugador>
+                    <jugador>
+                        <nombre>Peach</nombre>
+                        <juegos>5</juegos>
+                    </jugador>
+                </resultado>
+                <ganador>
+                    <nombre>Waluigi</nombre>
+                </ganador>
+            </set>
+        </partido>
+    </ronda>
+
+    <ronda> <!--ESTA RONDA DA PASO A LA PRE-FINAL, DONDE EL GANADOR SE ENFRENTARÍA A WALUIGI, QUE LLEGA A LA FINAL DIRECTAMENTE PORQUE ME CAE BIEN A MÍ-->
+        <partido>
+            <jugador>
+                <nombre>Bowser</nombre>
+                <peso>800 kg</peso>
+                <altura>2.60 m</altura>
+                <edad>40 años</edad>
+                <procedencia>Reino Koopa</procedencia>
+            </jugador>
+
+            <jugador>
+                <nombre>Planta Piraña</nombre>
+                <peso>10 kg</peso>
+                <altura>1 a 2 m</altura>
+                <edad>10 años</edad>
+                <procedencia>Reino Champiñón</procedencia>
+            </jugador>
+
+            <set>
+                <numero>1</numero>
+                <resultado>
+                    <jugador>
+                        <nombre>Bowser</nombre>
+                        <juegos>6</juegos>
+                    </jugador>
+                    <jugador>
+                        <nombre>Planta Piraña</nombre>
+                        <juegos>1</juegos>
+                    </jugador>
+                </resultado>
+                <ganador>
+                    <nombre>Bowser</nombre>
+                </ganador>
+            </set>
+        </partido>
+
+        <partido>
+            <jugador>
+                <nombre>Waluigi</nombre>
+                <peso>70 kg</peso>
+                <altura>1.90 m</altura>
+                <edad>35 años</edad>
+                <procedencia>Brooklyn</procedencia>
+            </jugador>
+
+            <jugador>
+                <nombre>Mario</nombre>
+                <peso>65 kg</peso>
+                <altura>1.60 m</altura>
+                <edad>25 años</edad>
+                <procedencia>Brooklyn</procedencia>
+            </jugador>
+
+            <set>
+                <numero>1</numero>
+                <resultado>
+                    <jugador>
+                        <nombre>Waluigi</nombre>
+                        <juegos>6</juegos>
+                    </jugador>
+                    <jugador>
+                        <nombre>Mario</nombre>
+                        <juegos>3</juegos>
+                    </jugador>
+                </resultado>
+                <ganador>
+                    <nombre>Waluigi</nombre>
+                </ganador>
+            </set>
+        </partido>
+    </ronda>
+
+    <ronda> <!--ESTA RONDA DA PASO A LA FINAL-->
+        <partido>
+            <jugador>
+                <nombre>Waluigi</nombre>
+                <peso>70 kg</peso>
+                <altura>1.90 m</altura>
+                <edad>35 años</edad>
+                <procedencia>Brooklyn</procedencia>
+            </jugador>
+
+            <jugador>
+                <nombre>Bowser</nombre>
+                <peso>800 kg</peso>
+                <altura>2.60 m</altura>
+                <edad>40 años</edad>
+                <procedencia>Reino Koopa</procedencia>
+            </jugador>
+
+            <set>
+                <numero>1</numero>
+                <resultado>
+                    <jugador>
+                        <nombre>Waluigi</nombre>
+                        <juegos>6</juegos>
+                    </jugador>
+                    <jugador>
+                        <nombre>Bowser</nombre>
+                        <juegos>3</juegos>
+                    </jugador>
+                </resultado>
+                <ganador>
+                    <nombre>Waluigi</nombre>
+                </ganador>
+            </set>
+        </partido>
+    </ronda>
+</torneo>
+
